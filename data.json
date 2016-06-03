@@ -1,0 +1,38 @@
+{
+	"questions": [
+		{
+			"text": "11111textt",
+			"answers" : [
+				{
+					"text": "answer1",
+					"count": 1
+				},
+				{
+					"text": "answer2",
+					"count": 2
+				},
+				{
+					"text": "answer3",
+					"count": 3
+				}
+			]
+		},
+		{
+			"text": "2222textt",
+			"answers" : {
+				"1": {
+					"text": "answer1",
+					"count": 1
+				},
+				"2": {
+					"text": "answer2",
+					"count": 2
+				},
+				"3": {
+					"text": "answer3",
+					"count": 3
+				}
+			}
+		}
+	]
+}
